@@ -1,4 +1,4 @@
-# peer-tutor-mobile-app
+# PeerTutor-ISU
 IT 391 Spring 2026 
 **Overview**: Our mobile app will be called PeerTutor ISU. Its purpose is to facilitate university students to find and connect with peer tutors. The app allows users to look for tutors by course numbers, filter the searches, request tutoring sessions, and message with the tutors. 
 **Features**:
@@ -31,8 +31,8 @@ IT 391 Spring 2026
   - PostgreSQL
 **Installation**:
   1. Clone repository:
-     git clone https://github.com/mgplasc/peer-tutor-mobile-app
-     cd peer-tutor-mobile-app
+     git clone https://github.com/mgplasc/PeerTutor-ISU
+     cd PeerTutor-ISU
   2. Set up backend:
      cd backend
      mvn clean install
