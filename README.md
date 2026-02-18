@@ -16,13 +16,13 @@ IT 391 Spring 2026
 - Messaging between tutor and student
 - Calendar view displays scheduled lessons
 - Post-session feedback and rating opens up to student after session
-  
+
 **Contributors**:
 - Maria Plascencia
 - RJ Dennis
 - Matt Huska
 - Phillip Nguyen
-  
+
 **Tech Stack**:
   Frontend: React Native (JSX), CSS
   Backend: Spring Boot + Maven (Java REST API)
