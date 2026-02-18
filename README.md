@@ -34,6 +34,7 @@ IT 391 Spring 2026
   - Maven
   - Node.js + npm
   - PostgreSQL
+  - Android Studio
     
 **Installation**:
   1. Clone repository:
@@ -41,7 +42,7 @@ IT 391 Spring 2026
      git clone https://github.com/mgplasc/PeerTutor-ISU
      
      cd PeerTutor-ISU
-  3. Set up backend:
+  2. Set up backend:
      
      cd backend
      
@@ -51,10 +52,18 @@ IT 391 Spring 2026
      
      mvn spring-boot:run
      
-  5. Set up frontend:
+  3. Set up frontend:
      
      cd frontend
      
      npm install
-     
+
      npm start
+     
+  4. Run frontend on Android *Still working on this setup*
+    
+    Open Android Studio -> AVD Manager -> Start an emulator
+
+    Run app from terminal:
+
+    npx react-native run-android
